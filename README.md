@@ -21,12 +21,14 @@ name: Sumanth Reddy Kasireddy
 role: B.Tech CSE Student (2023–2027)
 studying_at: 
   - SR International Institute of Technology, Hyderabad
+  - UMass Lowell (Transfer, CS - General Option)
 currently:
   - 🔭 Building an AI-powered portfolio with a 3D hero section
   - 🧠 Grinding DSA in C++ for placement season (110+ LeetCode)
   - 🤖 Designing an autonomous coding agent — from scratch
 strong_in: [Arrays, Binary Search, Sliding Window, Heaps, Greedy]
 leveling_up: [DP, Backtracking, Union-Find, Tries]
+fun_fact: "Also dabbled in bootloader & kernel dev before web dev"
 ```
 
 </td>
@@ -49,7 +51,6 @@ leveling_up: [DP, Backtracking, Union-Find, Tries]
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 
 **Frontend & 3D**
 <br/>
@@ -64,7 +65,7 @@ leveling_up: [DP, Backtracking, Union-Find, Tries]
 <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/WSL2-4D4D4D?style=for-the-badge&logo=linux&logoColor=white" />
-<img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white" />
+<img src="https://img.shields.io/badge/Antigravity-000000?style=for-the-badge&logo=google&logoColor=white" />
 
 </div>
 
@@ -98,7 +99,7 @@ leveling_up: [DP, Backtracking, Union-Find, Tries]
 ### 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=Sumanthreddy4620&theme=algolia&no-frame=true&column=7&margin-w=8&margin-h=8" />
+<img src="https://github-profile-trophy.vercel.app/?username=Sumanthreddy4620&theme=algolia&no-frame=true&column=7&margin-w=8&margin-h=8" />
 </div>
 
 ---
@@ -129,6 +130,7 @@ A dark/teal portfolio with a Three.js-powered 3D mechanical keyboard hero, GSAP 
 
 <a href="https://sumanthreddykasireddy.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <a href="https://github.com/Sumanthreddy4620"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/sumanthreddykasireddy/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 <br/><br/>
 
