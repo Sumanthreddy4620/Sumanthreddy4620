@@ -98,7 +98,7 @@ leveling_up: [DP, Backtracking, Union-Find, Tries]
 ### 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Sumanthreddy4620&theme=algolia&no-frame=true&column=7&margin-w=8&margin-h=8" />
+<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=Sumanthreddy4620&theme=algolia&no-frame=true&column=7&margin-w=8&margin-h=8" />
 </div>
 
 ---
