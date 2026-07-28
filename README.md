@@ -34,7 +34,7 @@ fun_fact: "Also dabbled in bootloader & kernel dev before web dev"
 </td>
 <td width="40%" valign="top">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&pause=1200&color=99F2C8&center=true&vCenter=true&width=380&height=100&lines=console.log(%22Hello%2C+World%22);const+build+%3D+()+%3D%3E+ship();while(true)+%7B+learn();+%7D" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&pause=1200&color=99F2C8&center=true&vCenter=true&width=440&height=100&lines=git+commit+-m+%22ship+it%22;npm+install+--save+motivation;sudo+rm+-rf+procrastination;404%3A+sleep+not+found&v=2" />
 
 </td>
 </tr>
@@ -79,49 +79,48 @@ fun_fact: "Also dabbled in bootloader & kernel dev before web dev"
 ### 📊 GitHub Analytics
 
 <div align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sumanthreddy4620&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=99F2C8&icon_color=99F2C8&text_color=c9d1d9" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sumanthreddy4620&theme=highcontrast&hide_border=true&background=0D1117&ring=99F2C8&fire=99F2C8&currStreakLabel=99F2C8" />
-</div>
-
-<div align="center">
-<img width="66%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumanthreddy4620&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=99F2C8" />
-</div>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sumanthreddy4620&theme=react-dark&hide_border=true&area=true&color=99F2C8&line=99F2C8&point=ffffff" />
+<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sumanthreddy4620&theme=highcontrast&hide_border=true&background=0D1117&ring=99F2C8&fire=99F2C8&currStreakLabel=99F2C8" />
 </div>
 
 ---
 
-### 🐍 Contribution Snake
+### 🎯 Skill Proficiency
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/Sumanthreddy4620/Sumanthreddy4620/output/github-contribution-grid-snake.svg" />
-</div>
-
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Sumanthreddy4620&theme=algolia&no-frame=true&column=7&margin-w=8&margin-h=8" />
-</div>
+```
+C++            ████████████████░░░░   80%
+JavaScript     ███████████████░░░░░   75%
+React          ████████████████░░░░   80%
+DSA            ██████████████░░░░░░   70%
+Node.js        ████████████░░░░░░░░   60%
+SQL            ███████████░░░░░░░░░   55%
+```
 
 ---
 
-### 🌟 Featured Build
+### 🌟 Featured Projects
 
 <table>
 <tr>
-<td>
+<td width="50%" valign="top">
 
 **🖥️ Portfolio — 3D Interactive Site**
 
-A dark/teal portfolio with a Three.js-powered 3D mechanical keyboard hero, GSAP SplitText animations, and a RAG-based AI chatbot (Gemini + Supabase pgvector) that answers questions about my work in real time.
+A dark/teal portfolio with a Three.js-powered 3D mechanical keyboard hero, GSAP SplitText animations, and a RAG-based AI chatbot (Groq + Supabase pgvector) that answers questions about my work in real time.
 
-`React` `React Three Fiber` `GSAP` `Tailwind` `Gemini API` `Supabase pgvector`
+`React` `React Three Fiber` `GSAP` `Tailwind` `Groq` `Supabase pgvector`
 
 🔗 [Live Site](https://sumanthreddykasireddy.vercel.app) · 💻 [Source](https://github.com/Sumanthreddy4620)
+
+</td>
+<td width="50%" valign="top">
+
+**🌱 Plantio — AI Botanical & Plant Care Platform**
+
+A full-stack plant care app with a Gemini Vision-powered AI doctor that detects 740+ plant diseases from photos, a site-wide AI chatbot, a Canvas-compressed photo growth journal, and a Node.js REST backend serving a 300,000+ species database.
+
+`React` `Node.js` `Gemini Vision API` `Supabase` `REST APIs` `Canvas API`
+
+🔗 [Live Site](https://plantio-plants.vercel.app/) · 💻 [Source](https://github.com/Sumanthreddy4620/Plantio)
 
 </td>
 </tr>
