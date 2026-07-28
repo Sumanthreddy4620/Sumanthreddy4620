@@ -21,14 +21,12 @@ name: Sumanth Reddy Kasireddy
 role: B.Tech CSE Student (2023–2027)
 studying_at: 
   - SR International Institute of Technology, Hyderabad
-  - UMass Lowell (Transfer, CS - General Option)
 currently:
   - 🔭 Building an AI-powered portfolio with a 3D hero section
   - 🧠 Grinding DSA in C++ for placement season (110+ LeetCode)
   - 🤖 Designing an autonomous coding agent — from scratch
 strong_in: [Arrays, Binary Search, Sliding Window, Heaps, Greedy]
 leveling_up: [DP, Backtracking, Union-Find, Tries]
-fun_fact: "Also dabbled in bootloader & kernel dev before web dev"
 ```
 
 </td>
