@@ -1,6 +1,6 @@
 # Hi, I'm Sumanth
 
-**Sumanth Reddy Kasireddy · Computer Science Student · Class of 2027**
+**Sumanth Reddy Kasireddy · AI Engineer · Computer Science Student · Class of 2027**
 
 I build web applications with interactive interfaces and AI features. My interests span full-stack development, 3D experiences, and autonomous coding agents.
 
@@ -8,7 +8,7 @@ I build web applications with interactive interfaces and AI features. My interes
 
 ## About me
 
-I'm pursuing a B.Tech in Computer Science at SR International Institute of Technology, Hyderabad (2023–2027).
+I'm studying Computer Science at the University of Massachusetts Lowell.
 
 - Building an AI-powered portfolio with an interactive 3D experience.
 - Exploring autonomous coding agents.
