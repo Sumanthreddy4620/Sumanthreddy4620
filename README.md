@@ -2,7 +2,7 @@
 
 **Sumanth Reddy Kasireddy · AI Engineer · Computer Science Student · Class of 2027**
 
-I build web applications with interactive interfaces and AI features. My interests span full-stack development, 3D experiences, and autonomous coding agents.
+I build web applications with interactive interfaces and AI features. My interests span full-stack development, RAG applications, and autonomous coding agents.
 
 [Portfolio](https://sumanthreddykasireddy.vercel.app) · [LinkedIn](https://www.linkedin.com/in/sumanthreddykasireddy/)
 
@@ -11,7 +11,7 @@ I build web applications with interactive interfaces and AI features. My interes
 I'm studying Computer Science at the University of Massachusetts Lowell.
 
 - Building an AI-powered portfolio with an interactive 3D experience.
-- Exploring autonomous coding agents.
+- Building my skills in Python, LangChain, and LangGraph for AI applications and agent workflows.
 - Practicing data structures and algorithms in C++, with a focus on dynamic programming, backtracking, union-find, and tries.
 
 ## Selected projects
@@ -36,7 +36,9 @@ A full-stack plant care platform with photo-based plant health analysis, an AI c
 
 | Area | Technologies |
 | --- | --- |
-| Languages | C++, C, JavaScript, SQL |
+| Languages | Python, C++, C, JavaScript, SQL |
+| AI frameworks & APIs | LangChain, LangGraph, Groq, Gemini Vision API, Jina AI |
+| AI concepts | Retrieval-augmented generation (RAG), embeddings, vector search, LLM API integration |
 | Frontend | React, Three.js, React Three Fiber, GSAP, Tailwind CSS |
 | Backend & data | Node.js, Express, Supabase, pgvector, REST APIs, JWT |
 | Tools & deployment | Git, WSL2, Vercel, Render, Antigravity |
